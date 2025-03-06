@@ -6,7 +6,12 @@ export default function Home() {
     <>
     <Container>
     <Title text="Все пиццы" size="lg" className="font-extrabold"/>
-    </Container> 
+    </Container>
+
+    <Container>
+      
+    </Container>
+
     </>
   );
 };
